@@ -110,7 +110,7 @@ body {
     min-height: 235px;
     min-width: 320px;
     max-width: 412px;
-    width: 338px; /*calc(100% - 40px); */
+    width: 600px;
     height: auto;
     padding: 36px;
    
